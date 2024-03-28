@@ -13,11 +13,11 @@ sentence id	token id	token	BIO NER tag
 0	11	were	O
 0	12	n't	O
 0	13	for	O
-0	14	Taylor	B-PERSON
-0	15	Swift	I-PERSON
+0	14	Taylor	B-PER
+0	15	Swift	I-PER
 0	16	.	O
-1	0	Chris	B-PERSON
-1	1	O'Donnell	I-PERSON
+1	0	Chris	B-PER
+1	1	O'Donnell	I-PER
 1	2	stated	O
 1	3	that	O
 1	4	while	O
@@ -57,7 +57,7 @@ sentence id	token id	token	BIO NER tag
 2	14	and	O
 2	15	won	O
 2	16	!	O
-3	0	Zendaya	B-PERSON
+3	0	Zendaya	B-PER
 3	1	slayed	O
 3	2	in	O
 3	3	Dune	B-WORK_OF_ART
