@@ -1,0 +1,13 @@
+sentence id	text	sentiment	topic
+0	After watching the game, I am convinced that the New York Knicks are the best team in the NBA.	positive	sports
+1	In the book, the author describes the protagonist as a "tall, dark, and handsome	positive	book
+2	The premise of the movie was interesting, but the execution was terrible.	negative	movie
+3	When i saw the trailer for the new movie, I was so excited to see it.	positive	movie
+4	Other than the fact that the main character is a total Mary Sue, the book was pretty good.	neutral	book
+5	I am pleased to announce that I will be attending the Super Bowl this year.	positive	sports
+6	Leonardo DiCaprio's performance was absolutely breathtaking.	positive	movie
+7	Even though they lost, the team played their hearts out.	positive	sports
+8	I can't believe that the movie was so bad.	negative	movie
+9	The book was a real page-turner.	positive	book
+10	Is it really that hard to make a good movie these days?	negative	movie
+
