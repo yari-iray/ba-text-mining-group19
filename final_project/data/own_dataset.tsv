@@ -10,4 +10,96 @@ sentence id	text	sentiment	topic
 8	I can't believe that the movie was so bad.	negative	movie
 9	The book was a real page-turner.	positive	book
 10	Is it really that hard to make a good movie these days?	negative	movie
+11	Despite the rain, the football match was electrifying, leaving fans on the edge of their seats.	positive	sports
+12	The novel's intricate plot twists kept me engaged from start to finish.	positive	book
+13	Watching the film, I couldn't help but admire the stunning cinematography.	positive	movie
+14	The basketball team's victory was well-deserved after their consistent hard work throughout the season.	positive	sports
+15	While the movie had its flaws, the brilliant acting performances made it worth watching.	positive	movie
+16	With every chapter, the book delved deeper into the characters' psyche, making it an enriching read.	positive	book
+17	Attending the championship game was a dream come true for me.	positive	sports
+18	The movie's storyline felt clichéd and predictable, leaving much to be desired.	negative	movie
+19	Exploring the intricate themes, the book offered profound insights into the human condition.	positive	book
+20	Despite the disappointing outcome, the team's resilience was admirable.	positive	sports
+21	The movie's special effects were impressive, but the weak plot detracted from the overall experience.	negative	movie
+22	After witnessing the thrilling overtime victory, I'm convinced the hockey team is a force to be reckoned with.	positive	sports
+23	The author's eloquent prose painted a vivid picture of the story's setting, immersing me completely.	positive	book
+24	Despite the hype, the movie fell short of expectations, failing to deliver on its promising premise.	negative	movie
+25	From the first scene to the last, the film kept me on the edge of my seat with its gripping storyline.	positive	movie
+26	While some may find fault with the pacing, I found the book to be a captivating read from start to finish.	positive	book
+27	Attending the championship parade was a surreal experience, celebrating the team's hard-earned victory.	positive	sports
+28	The movie's soundtrack was phenomenal, adding depth and emotion to every scene.	positive	movie
+29	Despite the setback, the team's camaraderie and determination shone through in every play.	positive	sports
+30	The book's exploration of complex moral dilemmas left me pondering long after I turned the final page.	positive	book
+31	As a longtime fan, attending the playoff game was a moment I'll cherish forever.	positive	sports
+32	After witnessing the intense showdown, I'm convinced the tennis player is a true champion in the making.	positive	sports
+33	The author's vivid descriptions transported me to the heart of the story, making it impossible to put the book down.	positive	book
+34	Despite the promising premise, the movie failed to engage me, leaving me disappointed.	negative	movie
+35	The movie's stunning visuals captivated me, but the lackluster script left much to be desired.	positive	movie
+36	The book's intricate plot kept me guessing until the very end, making it a compelling read.	positive	book
+37	Attending the sold-out concert was an unforgettable experience, filled with energy and excitement.	positive	sports
+38	The movie's ensemble cast delivered outstanding performances, elevating the overall viewing experience.	positive	movie
+39	Despite the team's defeat, their unwavering determination and sportsmanship were commendable.	positive	sports
+40	The book's exploration of societal issues resonated deeply with me, provoking thought and reflection.	positive	book
+41	As a die-hard fan, attending the championship game was a dream come true moment for me.	positive	sports
+42	Despite the predictable outcome, the team's performance was exceptional, showcasing their talent and skill.	positive	sports
+43	While the movie's visual effects were groundbreaking, the shallow character development left much to be desired.	negative	movie
+44	Despite the controversy surrounding the game, the team's unity remained unbreakable, earning them respect from fans worldwide.	positive	sports
+45	The author's clever use of symbolism added depth to the narrative, making the book a thought-provoking read.	positive	book
+46	Despite the high expectations, the movie failed to deliver a compelling storyline, leaving audiences disappointed.	negative	movie
+47	From the opening credits to the final scene, the film's suspenseful atmosphere had me on the edge of my seat throughout.	positive	movie
+48	The book's intricate world-building drew me in from the first page, making it impossible to put down.	positive	book
+49	Despite the underdog status, the team's perseverance paid off, leading to an unexpected victory.	positive	sports
+50	The movie's gripping plot twists kept me guessing until the very end, leaving me eager for more.	positive	movie
+51	Despite its length, the book's compelling narrative kept me engaged from beginning to end.	positive	book
+52	Attending the championship match was a once-in-a-lifetime experience, filled with unforgettable moments.	positive	sports
+53	The movie's thought-provoking themes sparked meaningful discussions long after the credits rolled.	positive	movie
+54	Despite the lack of recognition, the author's debut novel showcased immense talent and promise.	positive	book
+55	The team's sportsmanship and resilience in the face of defeat earned them admiration from fans and opponents alike.	positive	sports
+56	The movie's breathtaking visuals were let down by a clichéd and predictable storyline.	negative	movie
+57	Despite the critical acclaim, the book's controversial subject matter sparked important conversations.	positive	book
+58	Attending the championship celebration was a joyous occasion, marking the culmination of the team's hard work and dedication.	positive	sports
+59	The movie's stellar cast elevated the material, delivering memorable performances that stayed with me long after the credits rolled.	positive	movie
+60	Despite the setback, the team's unwavering determination and teamwork were evident in every play.	positive	sports
+61	The book's exploration of love and loss resonated deeply with me, evoking a range of emotions.	positive	book
+62	Attending the stadium-packed event was an electrifying experience, with the crowd roaring in excitement with every play.	positive	sports
+63	Despite the movie's grand production scale, the lack of originality in its storyline left me feeling underwhelmed.	negative	movie
+64	Despite the team's efforts, their performance failed to leave a lasting impression, leaving spectators indifferent.	neutral	sports
+65	While the book touched upon important topics, its execution lacked the depth needed to truly resonate with me.	neutral	book
+66	Attending the game was a pleasant diversion, offering a momentary escape from everyday life without leaving a lasting impact.	neutral	sports
+67	The movie boasted impressive visual effects, but its lack of emotional depth made it difficult to fully connect with the characters.	neutral	movie
+68	While the book had moments of intrigue, overall, it failed to fully engage me, resulting in a lukewarm reading experience.	neutral	book
+69	The team's performance was neither exceptional nor disappointing, falling somewhere in the middle ground.	neutral	sports
+70	The movie provided some entertainment value, but it lacked the substance needed to make a lasting impression.	neutral	movie
+71	Despite the book's attempt to tackle complex themes, its treatment felt superficial, leaving me craving more depth and nuance.	neutral	book
+72	Attending the event was enjoyable, but it didn't evoke strong emotions or leave a lasting impression on me.	neutral	sports
+73	The movie had its moments of excitement, but overall, it failed to hold my attention throughout its duration.	neutral	movie
+74	Despite the team's efforts, they struggled to maintain momentum throughout the game, resulting in a lackluster performance.	neutral	sports
+75	The book provided an interesting perspective on the subject matter, but it lacked sufficient depth to truly engage me.	neutral	book
+76	Attending the match was a pleasant diversion, but it didn't evoke strong emotions or leave a lasting impression on me.	neutral	sports
+77	The movie had its moments of intrigue, but overall, it failed to hold my interest throughout its duration.	neutral	movie
+78	Despite the author's skillful prose, the book's story felt somewhat contrived and predictable.	neutral	book
+79	The team's performance was solid but unremarkable, lacking the spark needed to truly stand out.	neutral	sports
+80	The movie's storyline was serviceable, but it lacked the depth and complexity needed to fully engage the audience.	neutral	movie
+81	While the book addressed important themes, it did so in a somewhat superficial manner, failing to fully explore its subject matter.	neutral	book
+82	Attending the tournament was a pleasant experience, but it didn't leave a lasting impact on me.	neutral	sports
+83	The film was about a boy who discovers he has magical powers and goes on a quest to save the world.	neutral	movie
+84	Even though the weather was quite bad, the team decided to continue playing the game.	neutral	sports
+85	Considering the many ways to solve problems, the book offers a unique perspective on the subject.	neutral	book
+86	The movie was about a group of friends who embark on an adventure to find a hidden treasure.	neutral	movie
+87	Despite the team's best efforts, they were unable to secure a victory in the final moments of the game.	neutral	sports
+88	It would suffice to say that this movie is quite long, but that does mean it was too long.	neutral	movie
+89	How the movie managed to keep me engaged for so long is beyond me, but I'm glad it did.	positive	movie
+90	Despite the team's loss, their sportsmanship and resilience were commendable, earning them respect from fans and opponents alike.	positive	sports
+91	Despite the movie's star-studded cast, the chemistry between characters felt forced, detracting from the overall viewing experience.	neutral	movie
+92	Despite the team's defeat, their efforts on the field were met with lukewarm applause, reflecting a sense of resignation among fans.	neutral	sports
+93	While the book attempted to tackle societal issues, its exploration lacked depth and failed to leave a lasting impression.	neutral	book
+94	Attending the game provided a brief moment of excitement, but the overall experience failed to leave a lasting impact.	neutral	sports
+95	The movie's special effects were impressive, but they couldn't compensate for the lackluster storyline and weak character development.	neutral	movie
+96	While the book's premise held promise, its execution fell short, resulting in a narrative that felt disjointed and unsatisfying.	neutral	book
+97	The team's performance was average at best, failing to inspire confidence or excitement among spectators.	neutral	sports
+98	The movie had its moments of suspense, but overall, it failed to sustain my interest, leaving me feeling indifferent towards the plot.	neutral	movie
+99	While the book touched upon important themes, its treatment lacked depth, resulting in a superficial exploration of complex issues.	neutral	book
+100	Attending the event offered a fleeting moment of enjoyment, but it ultimately failed to leave a lasting impression on me.	neutral	sports
+
+
 
